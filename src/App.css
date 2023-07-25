@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+
+}.listtask h1{
+ font-size: 45px;
+
+
+}body{
+  background-color: #fff;
+}.done{
+  text-decoration: line-through;
+}
+.task{
+  background-color: red;
+}
